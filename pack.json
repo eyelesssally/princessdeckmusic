@@ -1,0 +1,10 @@
+{
+  "name": "The Princess",
+  "description": "Theme music from Slay the Princess",
+  "author": "spooks",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
